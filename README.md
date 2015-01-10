@@ -1,4 +1,4 @@
-BigBlueButton
+BigBlueButton (we begin to do some changes based on it)
 =============
 BigBlueButton is an open source web conferencing system for on-line learning.  We believe that every student with a web browser should have access to a high-quality on-line learning experience.  We intend to make that possible with BigBlueButton. 
 
